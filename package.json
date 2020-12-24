@@ -1,0 +1,8 @@
+{
+  "name": "tailwind",
+  "dependencies": {
+    "autoprefixer": "latest",
+    "postcss": "^8.2.1",
+    "tailwindcss": "latest"
+  }
+}
